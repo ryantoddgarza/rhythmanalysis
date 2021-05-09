@@ -27,6 +27,6 @@ console.log('Traditional', eighth.value);
 
 // Mutable metric events
 let e = new Event(1000); // one e/second
-e = new Event(e.d(4)); // eq to variable quarter
-e = new Event(e.d(2)); // eq to variable eighth
+e = new Event(e.d(4)); // eq to immutable quarter
+e = new Event(e.d(2)); // eq to immutable eighth
 console.log('Dimensional', e.value);
