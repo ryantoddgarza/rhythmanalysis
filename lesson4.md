@@ -1,5 +1,9 @@
 # Lesson 4: Inheritance
 
+## Objectives
+
+- Define the inherited properties of a metric event
+
 ## Sort of a fractal but probably not
 
 Use an array to represent the denominator possibilities of two points in time.

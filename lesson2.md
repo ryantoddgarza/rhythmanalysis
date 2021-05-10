@@ -1,7 +1,8 @@
 # Lesson 2: Metric Events
 
-## Lesson objectives
+## Objectives
 
+- Define a metric event
 - Distinguish the utility of mutable and immutable events
 
 ## Events

@@ -1,5 +1,13 @@
 # Lesson 5: Prime Class
 
+## Objective
+
+- Define a prime class
+- Define a prime class set
+- Expound relationships between classes
+
+## Prime Class
+
 Collection of equivalent...
 
 A prime class is a set of all metric values that are whole number multiples apart where a prime number is at index zero.
@@ -31,7 +39,7 @@ p11 = [11]
 p13 = [13]
 ```
 
-The following structure presents the same information in a way that shows relationships between classes. n[6] reads as "prime class 2 at index 2 or prime class 3 at index 1."
+The following structure presents the same information aliased in a way to show relationships between classes. `n[6]` reads as "prime class 2 at index 2 or prime class 3 at index 1."
 
 ```
 n = {
