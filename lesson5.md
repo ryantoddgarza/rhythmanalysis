@@ -13,7 +13,7 @@ Collection of equivalent...
 A prime class is a set of all metric values that are whole number multiples apart where a prime number is at index zero.
 
 ```
-{p_n_ : _n_ is an integer} = [p0, p1, p2, p3, p4, p5, p6, ...]
+{pn : n is an integer} = [p0, p1, p2, p3, p4, p5, p6, ...]
 ```
 
 This is just a scalable way to describe what should already be familiar. Much of Western music, for example, bases its methods on prime class 2 and 3: quarter notes based on prime class 2 become eighth notes, sixteenth notes, etc. when divided or half notes, whole notes, etc. when multiplied, while quarter notes based on prime class 3 become triplets, sextuplets, etc. when divided or quarter note triplets, half note triplets, etc. when multiplied.
