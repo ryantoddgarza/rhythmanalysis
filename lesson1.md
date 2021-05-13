@@ -1,5 +1,10 @@
 # Lesson 1: Get Started
 
+## Objectives
+
+- suspend presuppositions
+- describe prescriptive vs descriptive rules
+
 ## Introduction
 
 This system is an approach to rhythmic composition or improvisation that produces polymetric and polyrhythmic structures that can evolve analogous to geometric shapes in multiple dimensions.
@@ -19,3 +24,5 @@ So let's put aside any concept of time signature, beat, or note value and begin 
 ## Thought experiments
 
 Snap your fingers _now_. Is that event a member of some rhythm? I think no. Snap your fingers again _now_. Does the emergent relationship redefine the first event as belonging to some rhythm? I think yes. For all we may know about an event, emergence of new meaning is infinitely possible. The present redefines the past and is thus dependent the future.
+
+Conventional rhythmic rules tend to be prescriptive—like laying down a sheet of grid paper and constraining artistic expression to the lines—whereas this system aims at descriptive rhythmic rules—using a grid retrospectively to describe the expression.
