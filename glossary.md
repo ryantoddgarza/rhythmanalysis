@@ -2,9 +2,9 @@
 
 **mutable.** Capable of or susceptible to change.
 
-**polymetric.**
+**polymetric.** Involving more than one simultaneous meters.
 
-**polyrhythmic.**
+**polyrhythmic.** Involving more than one simultaneous rhythm.
 
 **prime class.**
 

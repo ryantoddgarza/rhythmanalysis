@@ -2,6 +2,7 @@
 
 ## Objectives
 
+- Expound the parameters on which methods can operate
 - Define the possible mathematical operations for a metric event
 
 ## Events in time
@@ -10,7 +11,7 @@ A relationship to another quantity is necessary to define a point in time. Consi
 
 ## Methods
 
-An event's possible methods must belong to its prototype expressed in [EventPrototype.js](examples/EventPrototype.js).
+An event's methods belong to its prototype expressed in [EventPrototype.js](examples/EventPrototype.js).
 
 ### Multiply
 
