@@ -9,6 +9,7 @@ Practical consequences of rhythmanalysis.
 - [Lesson 3: Metric methods](lesson3.md)
 - [Lesson 4: Inheritance](lesson4.md)
 - [Lesson 5: Prime class](lesson5.md)
+- [Lesson 6: Rhythmic composition](lesson6.md)
 
 ## What is this?
 

@@ -1,6 +1,6 @@
 # Lesson 5: Prime Class
 
-## Objective
+## Objectives
 
 - Define a prime class
 - Define a prime class set
