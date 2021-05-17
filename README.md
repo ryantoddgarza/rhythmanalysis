@@ -4,12 +4,13 @@ Practical consequences of rhythmanalysis.
 
 ## Table of contents
 
-- [Lesson 1: Get started](lesson1.md)
-- [Lesson 2: Metric events](lesson2.md)
-- [Lesson 3: Metric methods](lesson3.md)
+- [Lesson 1: Get Started](lesson1.md)
+- [Lesson 2: Metric Events](lesson2.md)
+- [Lesson 3: Metric Methods](lesson3.md)
 - [Lesson 4: Inheritance](lesson4.md)
-- [Lesson 5: Prime class](lesson5.md)
-- [Lesson 6: Rhythmic composition](lesson6.md)
+- [Lesson 5: Prime Class](lesson5.md)
+- [Lesson 6: Eurhythmic, Isorhythmic, and Arrhythmic Composition](lesson6.md)
+- [Lesson 7: Polyrhythmic and Polymetric Composition](lesson7.md)
 
 ## What is this?
 
