@@ -5,14 +5,22 @@
 - Define a metric event
 - Distinguish the utility of mutable and immutable events
 
-## Events
+## Defining metric events
 
-What is a beat? A pulse? A subdivision? They all share commonality as events in time, but the truth is that what one person calls a beat, another might call a pulse, another might call the rhythm, and another might call the taal. These are what we'll call immutable metric events. They are key/value pairs of arbitrary names—contextual, cultural, etc.—and some quantity of time.
+What is a beat? A pulse? A rhythm? A subdivision? It's easy to focus on the differences and get nowhere—what one person calls a beat, another might call a pulse, another might call the rhythm, and another might call the taal.
 
-The generalization I have learned to make is that a pulse, the most abstract of the three, is any regular or constant variation of quantity, a beat is [...], and a subdivision is the segmentation of time between pulses. But in this system, there is no utility in that generalization and the coupling of static relationships impose serious limitations.
+The coarse generalization typically inherited is that a pulse, the most abstract of the three, is any regular or constant variation of quantity, a beat is [...], and a subdivision is the segmentation of time between pulses. But in this system, there is no utility in that generalization and the coupling of static relationships impose serious limitations.
+
+I'd like to start from the definition Henri Lefebvre gives rhythm: "[any]where there is an interaction between a place, a time and an expenditure of energy..."[^1]
+
+These are what we'll call immutable metric events. They are key/value pairs of arbitrary names—contextual, cultural, etc.—and some quantity of time.
 
 Decoupling terms from mere degree of scale—at least initially—will make the recursive thinking required as the system takes shape more natural. Henceforth, any reference to a measurable point in time will be called a metric event. A metric event consists of a duration value and a set of methods from which to derive new metric events. These methods and their inheritance that are the subject of this system.
 
 ## Mutability
 
 [eventMutability.js](examples/eventMutability.js)
+
+###### Footnotes
+
+[^1]: Lefebvre, Henri. Rhythmanalysis: Space, Time and Everyday Life. 1992. Bloomsbury Academic, an imprint of Bloomsbury Publishing Plc. 2020. p. 25
